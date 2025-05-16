@@ -5,6 +5,7 @@
 
 
 A = int(input("Digite o 1º Número: "))
+# o input tem q ficar vazio no beecrowd se n dá erro msm se a resposta estiver certa, só coloquei aqui pra ficar "bonito"
 B = int(input("Digite o 2º Número: "))
 C = int(input("Digite o 3º Número: "))
 D = int(input("Digite o 4º Número: "))
